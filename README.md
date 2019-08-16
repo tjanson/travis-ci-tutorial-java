@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/tjanson/travis-ci-tutorial-java.svg?branch=master)](https://travis-ci.org/tjanson/travis-ci-tutorial-java)
 [![Code Coverage](https://codecov.io/github/tjanson/travis-ci-tutorial-java/coverage.svg)](https://codecov.io/gh/tjanson/travis-ci-tutorial-java)
 
+<!-- foo -->
+
 # travis-ci-tutorial-java
 Just to learn how to use travis-ci in a java project!
 
